@@ -6,6 +6,7 @@
     font-family: var(--font-texto);
     font-weight: 500;
     font-size: 20px;
+    background: var(--fundo-rodape);
 }
 
 .rodape__logo{

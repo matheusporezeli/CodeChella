@@ -7,12 +7,15 @@
     --cor-font: #444444;
     --azul-escuro: #2E7BA2;
     --mostarda: #DF9010;
+    --fundo-ropade: #FACF9D;
 
 }
 
 main{
     font-family: var(--font-texto);
     color: var(--cor-font);
+    font-size: 20px;
+    font-weight: 500;
 }
 
 .container{

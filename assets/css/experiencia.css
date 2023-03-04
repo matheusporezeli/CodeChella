@@ -1,0 +1,33 @@
+.experiencia {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 4rem 7.5rem;
+    gap: 3rem;
+}
+
+.experiencia__texto{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+
+}
+
+.experiencia__titulo{
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.experiencia_paragrafo {
+    font-weight: 500;
+    line-height: 40px;
+}
+
+.experiencia__img {
+    width: 609px;
+    height: 381px;
+}
+
+.sustenta {
+    text-align: right;
+}
