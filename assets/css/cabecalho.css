@@ -1,0 +1,22 @@
+@import url(./styles.css);
+
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--azul-escuro);
+    padding: 2rem 7.5rem;
+}
+
+.cabecalho__lista{
+    display: flex;
+    gap: 2rem;
+}
+
+.lista__link{
+    text-decoration: none;
+    color: #ffffff;
+    font-family: var(--font-texto);
+    font-weight: 700;
+    font-size: 20px;    
+}

@@ -1,0 +1,20 @@
+:root {
+
+    --font-titulo: 'Calistoga', sans-serif;
+    --font-texto: 'Raleway', sans-serif;
+
+    --verao: linear-gradient(180deg, #BFDAE6 0%, #FCF0DD 50%, #FACF9D 100%);
+    --cor-font: #444444;
+    --azul-escuro: #2E7BA2;
+    --mostarda: #DF9010;
+
+}
+
+main{
+    font-family: var(--font-texto);
+    color: var(--cor-font);
+}
+
+.container{
+    background:var(--verao);
+}
