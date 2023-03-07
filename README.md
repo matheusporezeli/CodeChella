@@ -6,7 +6,7 @@ Festival de músicas com bandas ternológicas.
 | -------------  | --- |
 | :sparkles: Nome        | **CodeChella**
 | :label: Tecnologias | HTMLe CSS
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://matheusporezeli.github.io/CodeChella/
 | :fire: Desafio     | Alura Challenge Front-End #06
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
