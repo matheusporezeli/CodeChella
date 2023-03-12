@@ -1,0 +1,46 @@
+.sobre{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 4rem 7.5rem;
+    gap: 3rem;
+}
+
+.sobre__texto{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.sobre__titulo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.sobre__paragrafo{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 40px;
+    align-items: center;
+    text-align: center;
+}
+
+.sobre__botao{
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 16px;
+    gap: 16px;
+    background: var(--azul-escuro);
+    border-radius: 16px;
+    box-shadow: 4px 4px 0px var(--cor-font);
+}
