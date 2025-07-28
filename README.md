@@ -6,7 +6,7 @@ Festival de musica diferenciado com bandar tecnológicas
 | -------------  | --- |
 | :sparkles: Nome        | **Codechella**
 | :label: Tecnologias | HTML e CSS
-| :rocket: URL         | https://matheusporezeli.github.io/CodeChella/
+| :rocket: URL         | code-chella-xi.vercel.app
 
 ![image](https://github.com/matheusporezeli/CodeChella/assets/112051389/df268c90-2c0b-4f4e-83b9-748fa7bb38a4#vitrinedev)
 
